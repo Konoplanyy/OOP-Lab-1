@@ -1,0 +1,11 @@
+Name: Ivan Petrov
+Age: 20
+Faculty: Computer Science
+Department: Software Engineering
+Year: 2
+GPA: 3.5
+ID: 12345
+Address: 1234 Maple St
+Phone: +380123456789
+Email: ivan.petrov@example.com
+
